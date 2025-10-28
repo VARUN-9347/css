@@ -1,0 +1,18 @@
+div{
+    height: 200px;
+    width: 300px;
+    background-color:rgb(61, 61, 186);
+    border-radius: 5%;
+    padding-left: 5px;
+    background: linear-gradient(to right, rgb(115, 162, 171), rgb(7, 183, 210));
+    
+
+
+    
+}
+p{
+    color: white;
+}
+h3{
+    color: white;
+}
