@@ -47,3 +47,7 @@ img{
     grid-template-rows: auto;
     gap: 150px;
 }
+.movie:hover{
+    scale: 1.02;
+    transition: 1.5ms ease-in-out;
+}
